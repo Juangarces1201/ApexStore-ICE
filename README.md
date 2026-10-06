@@ -404,8 +404,5 @@ No se utilizan credenciales reales ni se realizan conexiones con servicios finan
 
 La persistencia también se encuentra simulada mediante almacenamiento en memoria. Por esta razón, las transacciones almacenadas se pierden cuando se detiene el proceso del Nodo 4.
 
-## 17. Repositorio
-
-El código fuente completo de la implementación se encuentra disponible en el siguiente repositorio:
 
 https://github.com/Juangarces1201/ApexStore-ICE
